@@ -5,7 +5,13 @@
 API REST en Node.js/Express con TypeScript, conectada a PostgreSQL y MongoDB.  
 Ahora dockerizada para correr en cualquier máquina con un entorno consistente.
 
+<<<<<<< HEAD
 ---
+=======
+- Node.js 18+
+- Docker / Docker Compose (recomendado)
+- O PostgreSQL y MongoDB locales si no usas Docker
+>>>>>>> 07f28d7f27c4bc23530d09f344a4ea6a406d42c0
 
 ## 📋 Requisitos
 
