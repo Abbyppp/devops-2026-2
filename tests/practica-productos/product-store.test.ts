@@ -573,3 +573,5 @@ describe("al ajustar el stock", () => {
     expectProductError(() => store.adjustStock("no-existe", 1), "NOT_FOUND");
   });
 });
+
+// ...
